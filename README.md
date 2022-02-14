@@ -1,5 +1,4 @@
 # Who can be the next Avengers?
-__*A group project for 95-888 Data Focused Python course in CMU*__.
 
 This project is a data analysis one based on _Python_ which delves deep into Marvel Universe to figure out who has the potentials to become one of the next generation os Avengers. 
 
